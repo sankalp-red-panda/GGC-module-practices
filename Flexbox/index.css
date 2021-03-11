@@ -1,0 +1,14 @@
+ul{
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+    height:100%;
+}
+li{
+    width: 100px;
+    background: tomato;
+    margin: 10px;
+}
+.first{
+    align-self: center;
+}
